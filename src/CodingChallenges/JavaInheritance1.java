@@ -36,7 +36,7 @@ I am flying
 I am singing
  */
 
-package CodingChallenges;
+package codingchallenges;
 
 class Animal{
 	

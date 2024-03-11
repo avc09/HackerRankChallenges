@@ -34,7 +34,7 @@ Explanation 0
 An AndhraPradesh object's yourNationalFlower method returns an instance of the Lily class, and the Lily class' whatsYourName method returns Lily, which is printed by the hidden code checker.
  */
 
-package CodingChallenges;
+package codingchallenges;
 
 class Flower {
     String whatsYourName(){

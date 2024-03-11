@@ -37,7 +37,7 @@ Sample Output 3:
 java.util.InputMismatchException
  */
 
-package CodingChallenges;
+package codingchallenges;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

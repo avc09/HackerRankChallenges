@@ -21,7 +21,7 @@ Hello, World.
 Hello, Java.
 */
 
-package CodingChallenges;
+package codingchallenges;
 
 public class WelcomeToJava {
 	

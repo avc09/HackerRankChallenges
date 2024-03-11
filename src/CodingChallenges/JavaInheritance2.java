@@ -21,7 +21,7 @@ My superclass is: Arithmetic
 42 13 20
  */
 
-package CodingChallenges;
+package codingchallenges;
 
 class Arithmetic{
 	int add(int a, int b) {
